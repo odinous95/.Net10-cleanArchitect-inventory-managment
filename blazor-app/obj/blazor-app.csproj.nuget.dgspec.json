@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mjdthif/Desktop/inventory-managment/inventory-managment.csproj": {}
+    "/Users/mjdthif/Desktop/inventory-managment/blazor-app/blazor-app.csproj": {}
   },
   "projects": {
-    "/Users/mjdthif/Desktop/inventory-managment/inventory-managment.csproj": {
+    "/Users/mjdthif/Desktop/inventory-managment/blazor-app/blazor-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mjdthif/Desktop/inventory-managment/inventory-managment.csproj",
-        "projectName": "inventory-managment",
-        "projectPath": "/Users/mjdthif/Desktop/inventory-managment/inventory-managment.csproj",
+        "projectUniqueName": "/Users/mjdthif/Desktop/inventory-managment/blazor-app/blazor-app.csproj",
+        "projectName": "blazor-app",
+        "projectPath": "/Users/mjdthif/Desktop/inventory-managment/blazor-app/blazor-app.csproj",
         "packagesPath": "/Users/mjdthif/.nuget/packages/",
-        "outputPath": "/Users/mjdthif/Desktop/inventory-managment/obj/",
+        "outputPath": "/Users/mjdthif/Desktop/inventory-managment/blazor-app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mjdthif/.nuget/NuGet/NuGet.Config"

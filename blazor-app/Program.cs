@@ -1,4 +1,4 @@
-using inventory_managment.Components;
+using blazor_app.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

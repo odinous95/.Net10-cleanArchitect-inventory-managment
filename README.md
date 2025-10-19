@@ -1,1 +1,0 @@
-# blazor-cleanArchitect-inventory-managment
