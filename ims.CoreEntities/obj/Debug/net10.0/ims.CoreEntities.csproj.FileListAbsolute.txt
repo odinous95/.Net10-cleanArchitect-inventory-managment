@@ -1,0 +1,12 @@
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/bin/Debug/net10.0/ims.CoreEntities.deps.json
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/bin/Debug/net10.0/ims.CoreEntities.dll
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/bin/Debug/net10.0/ims.CoreEntities.pdb
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ims.CoreEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ims.CoreEntities.AssemblyInfoInputs.cache
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ims.CoreEntities.AssemblyInfo.cs
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ims.CoreEntities.csproj.CoreCompileInputs.cache
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ims.CoreEntities.sourcelink.json
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ims.CoreEntities.dll
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/refint/ims.CoreEntities.dll
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ims.CoreEntities.pdb
+/Users/mjdthif/Desktop/inventory-managment/ims.CoreEntities/obj/Debug/net10.0/ref/ims.CoreEntities.dll

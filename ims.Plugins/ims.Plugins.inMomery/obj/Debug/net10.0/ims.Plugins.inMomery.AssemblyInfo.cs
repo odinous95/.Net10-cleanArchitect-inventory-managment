@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ims.Plugins.inMomery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89201d7ed3458f368eb29c32922b71184eea3a76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5985a8a70cc327d0a916f5400c117a4c644a0d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ims.Plugins.inMomery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ims.Plugins.inMomery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

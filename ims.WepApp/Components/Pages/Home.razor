@@ -1,7 +1,25 @@
 ﻿@page "/"
 
+@inject IViewInventoriesUseCase ViewInventoriesUseCase
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
-Welcome to your new app.
+<ul>
+    @if (inventories is not null && inventories.Count > 0)
+    {
+        foreach (var inventory in inventories)  
+        {
+            <li>@inventory.Name - @inventory.Quantity</li>
+        }
+    }
+</ul>
+
+@code{
+    private List<Inventory>? inventories;
+    protected override async Task OnInitializedAsync()
+    {
+    inventories = (await ViewInventoriesUseCase.ExecuteAsync()).ToList();
+    }
+}
+

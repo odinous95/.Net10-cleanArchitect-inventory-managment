@@ -1,0 +1,16 @@
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/bin/Debug/net10.0/ims.UseCases.deps.json
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/bin/Debug/net10.0/ims.UseCases.dll
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/bin/Debug/net10.0/ims.UseCases.pdb
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/bin/Debug/net10.0/ims.CoreEntities.dll
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/bin/Debug/net10.0/ims.CoreEntities.pdb
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.csproj.AssemblyReference.cache
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.AssemblyInfoInputs.cache
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.AssemblyInfo.cs
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.csproj.CoreCompileInputs.cache
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.sourcelink.json
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseC.2BFA83B5.Up2Date
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.dll
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/refint/ims.UseCases.dll
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ims.UseCases.pdb
+/Users/mjdthif/Desktop/inventory-managment/ims.UseCases/obj/Debug/net10.0/ref/ims.UseCases.dll
