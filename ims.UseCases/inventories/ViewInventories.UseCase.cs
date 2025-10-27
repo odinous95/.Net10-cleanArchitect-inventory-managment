@@ -4,12 +4,13 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using ims.CoreEntities;
+using ims.UseCases.Inventories.Interfaces;
 using ims.UseCases.PluginsInterfaces;
 
 
-namespace IMS.UseCases.Inventories
+namespace ims.UseCases.Inventories
 {
-    public class ViewInventoriesUseCase
+    public class ViewInventoriesUseCase : IViewInventoriesUseCase
     {   
         private readonly IInventoryRepository inventoryRepository;
         public ViewInventoriesUseCase(IInventoryRepository inventoryRepository)

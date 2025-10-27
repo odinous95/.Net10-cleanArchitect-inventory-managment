@@ -1,15 +1,21 @@
 using ims.CoreEntities;
 using ims.Plugins.inMomery;
+using ims.UseCases.Inventories;
+using ims.UseCases.Inventories.Interfaces;
 using ims.UseCases.PluginsInterfaces;
 using ims.WepApp.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddSingleton<IInventoryRepository, InventoryRepository>();
+
+builder.Services.AddTransient<IViewInventoriesUseCase, ViewInventoriesUseCase>();
 
 var app = builder.Build();
 
